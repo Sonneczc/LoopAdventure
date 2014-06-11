@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Adventure.Game" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAKAACQAAEACQAAACAAEAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.Program" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Class" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>GameContent\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Enemy" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Fight" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAI=</HashCode>
+      <FileName>GameContent\Fight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Life" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAAAAEAAAAAAAAAAAEAQAAAAAwAAAAA=</HashCode>
+      <FileName>GameContent\Life.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Map" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Player" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Race" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAgAIAACAAAAAAAAAAAABIAAAgAAAJABSQQBA=</HashCode>
+      <FileName>GameContent\Race.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Recoder" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Recoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Region" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Region.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Role" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>HR0JXDhletASjnoVatzc/Ooe6ypU0x3QnhXBK2MEdYo=</HashCode>
+      <FileName>GameContent\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Source" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAIAAAACAAAABgAgACAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Source.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Skills.common_Skill" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Skills\common_Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Skills.skill_AI" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Skills\skill_AI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adventure.Properties.Resources" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adventure.GameContent.Bio" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8ITQTEBFtVRADqBBSKOFAAECrnYTTIA0QECyREQFxII=</HashCode>
+      <FileName>GameContent\Bio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Adventure.GameContent.Skills.common_Skill_interface" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Skills\common_Skill_interface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Adventure.GameContent.Bio_Interface" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>USCFHYgkREYkGJFB0KsRkgETokIRBJBQUFE2QTUMxAY=</HashCode>
+      <FileName>GameContent\Bio_Interface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Adventure.GameContent.CLASS" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASEABCIAIwEiKKCBIBYACAwMgECCAAGVHAAAIBKCwMA=</HashCode>
+      <FileName>GameContent\Class.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.RACE" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAgAIAACAAAAAAAAAAAABIAAAgAAAJABSQABA=</HashCode>
+      <FileName>GameContent\Race.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.SOURCE_TYPE" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAQAIAAAAIAAAAAAAEAAEA=</HashCode>
+      <FileName>GameContent\Source.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.SOURCE_SUB_TYPE" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAASAEAAAAAQAABAIAGIAIAAgABAAgAAAAAAA=</HashCode>
+      <FileName>GameContent\Source.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.Title" Collapsed="true">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Title.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.Title_E" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Title.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.Prefix" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Title.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Adventure.GameContent.Suffix" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContent\Title.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

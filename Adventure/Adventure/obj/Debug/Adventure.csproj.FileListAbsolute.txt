@@ -1,0 +1,9 @@
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\bin\Debug\Adventure.exe.config
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.Properties.Resources.resources
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.csproj.GenerateResource.Cache
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\bin\Debug\Adventure.exe
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\bin\Debug\Adventure.pdb
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.exe
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.pdb
+C:\Users\Sonne\Workplace\Nyan\Adventure\Adventure\obj\Debug\Adventure.Game.resources
